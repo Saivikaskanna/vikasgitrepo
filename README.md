@@ -1,2 +1,0 @@
-# vikasgitrepo
-My own repository
